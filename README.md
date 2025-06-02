@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Juan Diego Caballero
 
-<!--
-**jdcaballero15/jdcaballero15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante avanzado de Ingeniería en Sistemas | 📊 Apasionado por el análisis de datos  
+💡 Fundador de **[data.snake](https://datasnake.tech)** – educación y análisis de datos para todos los niveles
 
-Here are some ideas to get you started:
+🔍 Me especializo en:
+- Análisis de datos con **Python**, **Pandas** y **SQL**
+- Visualización en **Power BI**, **Looker Studio**, **Excel** y **Google Sheets**
+- Modelado de datos y construcción de dashboards interactivos
+- Automatización de reportes, procesos ETL y análisis financieros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 También tengo experiencia integrando APIs y creando soluciones automatizadas en hojas de cálculo.
+
+🚀 Algunos proyectos destacados:
+- 📈 [Análisis de calidad de vida entre países con Power BI](https://github.com/jdcaballero15/Analisis_Comparativo_Calidad_Vida_PowerBI)
+- 👥 [Efectividad de empleados con Power BI](https://github.com/jdcaballero15/Analisis_Venta_Efectividad_Empleados_PowerBI)
+- 🚛 [Dashboard logístico de disponibilidad](https://github.com/jdcaballero15/logistica-dashboard-disponibilidad)
+- 🌍 [Análisis poblacional por región con Power BI](https://github.com/jdcaballero15/Analisis_Informacion_Poblacional_PowerBI)
+
+📬 Estoy abierto a colaborar en proyectos, consultorías o simplemente compartir ideas.
+¡Conectemos!
+
+---
+🔗 [LinkedIn](https://www.linkedin.com/in/tu-usuario) | 📧 jdcaballero15@gmail.com | 🌐 [datasnake.tech](https://datasnake.tech)
