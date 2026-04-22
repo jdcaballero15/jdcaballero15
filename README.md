@@ -12,6 +12,7 @@
 🧠 También tengo experiencia integrando APIs y creando soluciones automatizadas en hojas de cálculo.
 
 🚀 Algunos proyectos destacados:
+- 📈 [Análisis de institución financiera con Python](https://github.com/jdcaballero15/Financial-Performance-Analysis-Project)
 - 📈 [Análisis de calidad de vida entre países con Power BI](https://github.com/jdcaballero15/Analisis_Comparativo_Calidad_Vida_PowerBI)
 - 👥 [Efectividad de empleados con Power BI](https://github.com/jdcaballero15/Analisis_Venta_Efectividad_Empleados_PowerBI)
 - 🚛 [Dashboard logístico de disponibilidad](https://github.com/jdcaballero15/logistica-dashboard-disponibilidad)
