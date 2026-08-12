@@ -22,4 +22,4 @@
 ¡Conectemos!
 
 ---
-🔗 [LinkedIn](https://www.linkedin.com/in/juan-diego-caballero-8871b72b2/) | 📧 juandicaballero@hotmail.com | 🌐 [datasnake.tech](https://datasnake.tech)
+🔗 [LinkedIn](https://www.linkedin.com/in/juan-diego-caballero-8871b72b2/) | 📧 juandicaballero@hotmail.com | 🌐 [datasnake.tech](https://datasnake.netlify.app/)
